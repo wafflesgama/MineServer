@@ -1,0 +1,90 @@
+[16:37:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:37:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:37:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:37:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:37:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:37:27] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[16:37:27] [Server thread/INFO]: Loading properties
+[16:37:27] [Server thread/INFO]: Default game type: SURVIVAL
+[16:37:27] [Server thread/INFO]: Generating keypair
+[16:37:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:37:27] [Server thread/INFO]: Using default channel type
+[16:37:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:37:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:37:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:37:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:37:28] [Server thread/INFO]: Preparing level "world"
+[16:37:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:37:29] [Server thread/INFO]: Loaded 6 recipes
+[16:37:29] [Server thread/INFO]: Loaded 811 advancements
+[16:37:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:37:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:37:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:37:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:37:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:37:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[16:37:32] [Server thread/INFO]: Preparing spawn area: 1%
+[16:37:32] [Server thread/INFO]: Time elapsed: 2717 ms
+[16:37:32] [Server thread/INFO]: Done (4.333s)! For help, type "help"
+[17:06:01] [Server thread/INFO]: WallesOPilao[/25.90.211.28:1054] logged in with entity id 129 at (1181.5212314578637, 72.0, 1713.300000011921)
+[17:06:01] [Server thread/INFO]: WallesOPilao joined the game
+[17:50:44] [Server thread/INFO]: WallesOPilao was impaled by Drowned
+[17:58:17] [Server thread/WARN]: WallesOPilao moved wrongly!
+[18:21:15] [Server thread/WARN]: WallesOPilao was kicked for floating too long!
+[18:21:15] [Server thread/INFO]: WallesOPilao lost connection: Flying is not enabled on this server
+[18:21:15] [Server thread/INFO]: WallesOPilao left the game
+[18:21:38] [Server thread/INFO]: WallesOPilao[/25.90.211.28:1792] logged in with entity id 15632 at (122.29999997466803, 82.0000002, 244.29999997466803)
+[18:21:39] [Server thread/INFO]: WallesOPilao joined the game
+[18:26:56] [Server thread/INFO]: WallesOPilao fell from a high place
+[18:45:44] [Server thread/INFO]: WallesOPilao has made the advancement [Not Today, Thank You]
+[19:13:16] [Server thread/INFO]: Luka[/25.90.223.187:54828] logged in with entity id 25241 at (1180.5610260620033, 73.0, 1713.300000011921)
+[19:13:16] [Server thread/INFO]: Luka joined the game
+[19:13:28] [Server thread/INFO]: <Luka> oh fuck
+[19:13:37] [Server thread/INFO]: <WallesOPilao> well tinha totil loot
+[19:13:41] [Server thread/INFO]: <WallesOPilao> morri
+[19:13:45] [Server thread/INFO]: <Luka> anda disc,
+[19:13:46] [Server thread/INFO]: <WallesOPilao> e chorei
+[19:13:53] [Server thread/INFO]: <WallesOPilao> pq tinha um segundo mapa
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.212274739060831,0.0,-7.492866145394601
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.4896699213368265,0.0,-7.781053304829356
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.767065103612936,0.0,-8.069240464264112
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.044460285889045,0.0,-8.357427623698868
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.321855468165268,0.0,-8.645614783133396
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.599250650441604,0.0,-8.933801942567925
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.87664583271794,0.0,-9.221989102002453
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.154041014994391,0.0,-9.510176261436982
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.431436197270841,0.0,-9.798363420871283
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.708831379547405,0.0,-10.086550580305584
+[19:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3823ms or 76 ticks behind
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.212274739189979,0.0,-7.492866145292737
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.489669921466884,0.0,-7.781053304726811
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.767065103743789,0.0,-8.069240464160885
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.044460286020694,0.0,-8.357427623594958
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.3218554682976,0.0,-8.645614783029032
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.599250650574504,0.0,-8.933801942463106
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.876645832851409,0.0,-9.22198910189718
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.154041015128314,0.0,-9.510176261331253
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.431436197405219,0.0,-9.798363420765327
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.708831379682124,0.0,-10.0865505801994
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.986226561959029,0.0,-10.374737739633474
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.212274739199415,0.0,-7.492866145285916
+[19:17:36] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.212274739199415,0.0,-7.492866145285916
+[19:22:40] [Server thread/WARN]: Luka moved too quickly! 2.0696753585110628,1.5244240882136921,9.953054394349408
+[19:22:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3666ms or 73 ticks behind
+[19:23:12] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
+[19:23:12] [Server thread/INFO]: WallesOPilao left the game
+[19:33:38] [Server thread/INFO]: Luka lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Luka left the game
+[19:33:46] [Server thread/INFO]: Stopping the server
+[19:33:46] [Server thread/INFO]: Stopping server
+[19:33:46] [Server thread/INFO]: Saving players
+[19:33:46] [Server thread/INFO]: Saving worlds
+[19:33:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:33:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:33:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:33:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
