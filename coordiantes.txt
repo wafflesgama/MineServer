@@ -1,3 +1,5 @@
 -314, 62, -380 VILLAGE com monstro bicho
 230, 70, 280 CASA
 2100, 65, 231, VILLAGEE com monstro bicho e gatos
+-900, ,-170, Village com materiais nice, levar picareta e pá
+-255, , -175
