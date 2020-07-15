@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-07-15 14:07:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-07-05 23:06:02 +0100"
@@ -377,6 +383,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-07-15 14:07:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-07-15 14:45:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wooden_fences": "2020-07-06 00:06:21 +0100"
@@ -446,6 +464,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-07-09 14:41:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-07-15 14:12:25 +0100"
     },
     "done": true
   },
@@ -600,6 +624,7 @@
       "minecraft:spider": "2020-07-09 18:13:27 +0100",
       "minecraft:creeper": "2020-07-09 01:09:12 +0100",
       "minecraft:slime": "2020-07-09 18:34:37 +0100",
+      "minecraft:husk": "2020-07-15 13:58:31 +0100",
       "minecraft:cave_spider": "2020-07-12 00:56:55 +0100",
       "minecraft:silverfish": "2020-07-08 21:40:45 +0100",
       "minecraft:zombie": "2020-07-05 22:27:01 +0100",
@@ -889,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-07-15 14:45:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-07-08 22:06:15 +0100"
@@ -904,6 +935,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-07-09 14:39:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-07-15 14:01:55 +0100"
     },
     "done": true
   },
@@ -1097,6 +1134,7 @@
     "criteria": {
       "minecraft:forest": "2020-07-05 22:17:40 +0100",
       "minecraft:mountains": "2020-07-08 16:10:56 +0100",
+      "minecraft:birch_forest": "2020-07-15 14:13:04 +0100",
       "minecraft:deep_lukewarm_ocean": "2020-07-13 00:09:23 +0100",
       "minecraft:beach": "2020-07-09 18:20:37 +0100",
       "minecraft:dark_forest": "2020-07-05 23:54:24 +0100",
@@ -1356,6 +1394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-07-15 14:45:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2020-07-08 20:59:09 +0100"
@@ -1563,7 +1607,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2020-07-05 22:55:55 +0100",
+      "cooked_beef": "2020-07-15 14:04:39 +0100",
+      "tropical_fish": "2020-07-15 14:43:32 +0100",
       "apple": "2020-07-05 22:35:44 +0100",
+      "cooked_chicken": "2020-07-15 14:21:58 +0100",
       "carrot": "2020-07-08 15:53:33 +0100"
     },
     "done": false
@@ -2534,6 +2581,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-07-11 23:43:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2020-07-15 14:07:15 +0100"
     },
     "done": true
   },
