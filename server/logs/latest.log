@@ -1,13 +1,11 @@
-[13:31:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:31:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:31:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:31:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:31:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:31:43] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[13:31:43] [Server thread/INFO]: Loading properties
-[13:31:43] [Server thread/INFO]: Default game type: SURVIVAL
-[13:31:43] [Server thread/INFO]: Generating keypair
-[13:31:43] [Server console handler/ERROR]: Exception handling console input
+[19:59:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:59:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:59:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:59:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:59:48] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[19:59:48] [Server thread/INFO]: Loading properties
+[19:59:48] [Server thread/INFO]: Default game type: SURVIVAL
+[19:59:48] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
 	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
@@ -21,452 +19,47 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
 	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
 	at uk$2.run(SourceFile:109) [server.jar:?]
-[13:31:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:31:43] [Server thread/INFO]: Using default channel type
-[13:31:48] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[13:31:48] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
-[13:31:48] [Server thread/WARN]: Perhaps a server is already running on that port?
-[13[13:31:56] [Server thread/INFO]: Luka[/25.90.223.187:49901] logged in with entity id 146 at (128.79217565931424, 78.0, 232.65014496723623)
-[13:31:57] [Server thread/INFO]: Luka joined the game
-[13:31:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4292ms or 85 ticks behind
-[13:32:38] [Server thread/INFO]: WallesOPilao[/25.90.211.28:33452] logged in with entity id 309 at (-948.1124512277868, 100.0, -89.49996205063911)
-[13:32:38] [Server thread/INFO]: WallesOPilao joined the game
-[13:36:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3438ms or 68 ticks behind
-[13:41:32] [Server thread/WARN]: WallesOPilao moved too quickly! 9.952361349886814,0.0,-1.3627101153066405
-[13:41:32] [Server thread/WARN]: Luka moved too quickly! 4.770990535293237,-5.078400001525878,-7.306150752737551
-[13:41:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
-[13:43:02] [Server thread/INFO]: FACA14[/25.44.51.255:61749] logged in with entity id 4379 at (1180.751232287483, 73.0, 1713.300000011921)
-[13:43:02] [Server thread/INFO]: FACA14 joined the game
-[13:46:39] [Server thread/WARN]: WallesOPilao moved too quickly! 7.346654065044277,0.0,6.807029794591102
-[13:46:39] [Server thread/WARN]: Luka moved too quickly! -8.662773729073933,-0.7531999805212024,5.4988556834325095
-[13:46:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7366ms or 147 ticks behind
-[13:51:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4460ms or 89 ticks behind
-[13:56:47] [Server thread/WARN]: WallesOPilao moved too quickly! -0.3083182922130163,1.0,-10.169061306788421
-[13:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3623ms or 72 ticks behind
-[13:59:45] [Server thread/INFO]: WallesOPilao has made the advancement [What a Deal!]
-[14:01:51] [Server thread/WARN]: Luka moved too quickly! -4.663804530486345,-0.12129684053920187,8.911882788493074
-[14:01:51] [Server thread/WARN]: FACA14 moved too quickly! -0.2957024860927504,-10.042738466342136,1.3944277718305784
-[14:01:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3623ms or 72 ticks behind
-[14:06:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
-[14:09:08] [Server thread/INFO]: FACA14 drowned
-[14:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4282ms or 85 ticks behind
-[14:15:24] [Server thread/INFO]: FACA14 was shot by Skeleton
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.734992006936743,0.0,-8.544480814076678
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.716592129358041,0.0,-8.878831543864067
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.665140273245541,0.0,-9.199306093668383
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.581399171315425,0.0,-9.501827968501402
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.466885247870252,0.0,-9.782314558702637
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.323875917539354,0.0,-10.036814772473576
-[14:17:01] [Server thread/WARN]: FACA14 moved too quickly! 4.407906743284144,1.0,8.957758532318962
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.155390971182612,0.0,-10.261646699904645
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -4.964971043996606,0.0,-10.45420927695136
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -4.756368046453652,0.0,-10.612880364081775
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -4.533317819599461,0.0,-10.736889375579835
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -4.299390737353903,0.0,-10.826163196028347
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -4.057887350793564,0.0,-10.881196204631806
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -3.8117874895235175,0.0,-10.90291463713038
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -3.563723509635686,0.0,-10.89256700801252
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -3.315974750191181,0.0,-10.851630838162919
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -3.0704792370804412,0.0,-10.781733282541836
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -2.8288574431402225,0.0,-10.684585536353438
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -2.5924372019709168,0.0,-10.56193373222311
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -2.3622799525193656,0.0,-10.41552144200432
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -2.1392132496080976,0.0,-10.247058744725791
-[14:17:01] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -1.923857262039391,0.0,-10.058201838324749
-[14:17:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
-[14:19:28] [Server thread/WARN]: Boat moved wrongly!
-[14:19:28] [Server thread/WARN]: Boat moved wrongly!
-[14:19:28] [Server thread/WARN]: Boat moved wrongly!
-[14:19:28] [Server thread/WARN]: Boat moved wrongly!
-[14:21:38] [Server thread/WARN]: Boat moved wrongly!
-[14:21:38] [Server thread/WARN]: Boat moved wrongly!
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.126809897672501,0.0,9.048347624638168
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -2.5585956218299657,0.0,10.078914609482212
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.323864678853852,0.0,9.396440265744644
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -2.6585478756590533,0.0,10.466214487946289
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.520916555182339,0.0,9.744534672965202
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -2.7585436966717793,0.0,10.853504164974296
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.717965817143522,0.0,10.092630669688404
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -2.858578728148757,0.0,11.240784660710077
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.915012726173927,0.0,10.440728096963937
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -2.9586490490426627,0.0,11.628056893283073
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.1120575175666545,0.0,10.788826811736541
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -3.0594251909569152,0.0,12.015140636175971
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.309100403085949,0.0,11.136926685256483
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -3.1621088627176164,0.0,12.401678230721387
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.5061415733187005,0.0,11.485027601648994
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -3.2683026232033967,0.0,12.787114074315042
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.703785590892039,0.0,11.832780382024666
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -3.3792410131331394,0.0,13.170937980660852
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.903100734714599,0.0,12.17952943194247
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -3.495854236722437,0.0,13.552694928352594
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.1054947343809545,0.0,12.524322409587839
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -3.6188145628669304,0.0,13.931993063462116
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.31258078056112,0.0,12.865915827691197
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -3.7485878921015114,0.0,14.308501733929106
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.525540925768155,0.0,13.20323901562901
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -3.885469067359452,0.0,14.681951225529161
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.745208641558747,0.0,13.535392070467054
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -4.029609783078911,0.0,15.052132077210274
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.972137327183418,0.0,13.861638030083284
-[14:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6741ms or 134 ticks behind
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -5.837834874046848,0.0,8.509343662397924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -3.821435551413515,0.0,9.529993399954392
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.103370789096061,0.0,8.805746416638229
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -4.044849589634964,0.0,9.856392343653638
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.369260894899298,0.0,9.102105690234922
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -4.27246765389782,0.0,10.180073615370176
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.635327587354823,0.0,9.398554480428587
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -4.504539515634519,0.0,10.500700752357403
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.901421854057617,0.0,9.695201588258413
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -4.741710142758393,0.0,10.817527736639278
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.167423423299624,0.0,9.99213164468398
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -4.984414999451133,0.0,11.129955003591817
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.433238042737003,0.0,10.289407697094433
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -5.232921271433497,0.0,11.437515290205297
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.698789237363599,0.0,10.5870785625834
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -5.487365538677182,0.0,11.739855012562003
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.96401660255674,0.0,10.885180331072604
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -5.747778525944,0.0,12.036723909340637
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.228874262231784,0.0,11.183737714397836
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -6.014106344502125,0.0,12.327964281145796
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.493329477454381,0.0,11.482765247447716
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -6.286235380144944,0.0,12.613490761470644
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -8.757358469840256,0.0,11.782270865133128
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -6.564004360315039,0.0,12.893283219379413
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.020948477792672,0.0,12.082254103693515
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -6.847216820115591,0.0,13.167376594477446
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.284090848957476,0.0,12.38271196225557
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -7.13564955755453,0.0,13.435854333736003
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.546783572279537,0.0,12.68363669226504
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -7.429065942958573,0.0,13.698832333218633
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.783207017006134,0.0,12.95446894209897
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -7.727219008902807,0.0,13.956456920654361
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.99598811162332,0.0,13.198217960492357
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -8.029856041638595,0.0,14.208899597585273
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -10.187491091705851,0.0,13.417592071234978
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -8.33672438230792,0.0,14.456348773861734
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -7.313421887493746,0.0,7.079827183766923
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -7.649249356560176,0.0,7.289388098578101
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -7.988690997485833,0.0,7.492703063845639
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -8.332238775049632,0.0,7.688022403741925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -8.680291923798336,0.0,7.87329074889513
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -9.033059443076354,0.0,8.046212351999202
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -9.390473743263783,0.0,8.204313758503218
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -9.752115400985417,0.0,8.345025431260524
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -10.117251345078785,0.0,8.466449955603025
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -10.484970272463556,0.0,8.56727881659448
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -10.815917298342697,0.0,8.658024789082845
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -11.113769613743557,0.0,8.739696162158808
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -11.38183669050295,0.0,8.813200395979976
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -11.623097053195238,0.0,8.879354204666555
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -11.840231373866231,0.0,8.938892630907247
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.629874597578009,0.0,7.54173393802823
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.06955877298094,0.0,8.971255804483889
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.702663726548053,0.0,7.628786948352882
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.309001948443893,0.0,8.977848349113543
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.768173940885617,0.0,7.707134655569561
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.556731602532182,0.0,8.960092501351326
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.827133132227573,0.0,7.777647590196622
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.81114886106468,0.0,8.919409363845048
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.8801964030294585,0.0,7.841109229679816
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.070863996830212,0.0,8.857200081212753
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.92795334548623,0.0,7.8982247037016435
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.334679519572546,0.0,8.774835974521821
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -6.9709345925584785,0.0,7.949628628959559
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.601565394157092,0.0,8.673641977046614
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.009617713898933,0.0,7.995892160466113
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.870642496220626,0.0,8.554891475535342
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -7.044432522183115,0.0,8.037529337719008
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -10.11481146663482,0.0,-0.7197034215087115
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -10.380543615744386,0.0,-0.9734351972252426
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -10.64846002637455,0.0,-1.2295967931086835
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -10.919271717349488,0.0,-1.486950546635029
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -11.193495048890668,0.0,-1.7444569109059955
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -11.471491953249824,0.0,-2.001248907997237
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -11.753494750340224,0.0,-2.256618748221456
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.007297260998143,0.0,-2.4864515983347673
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.235719514539142,0.0,-2.6933011579571087
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.441299537280088,0.0,-2.8794657566855335
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.626321552845525,0.0,-3.0470138911026083
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.792841362443141,0.0,-3.1978072080833186
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -12.942709187110836,0.0,-3.3335211897707637
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.077590225738618,0.0,-3.455663770053789
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.198983157287785,0.0,-3.5655920893964037
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.308236792787852,0.0,-3.6645275741838645
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.441548525718417,0.0,-3.7729642765357596
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.596662108717851,0.0,-3.889679819078225
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.771532137262398,0.0,-4.013596583446443
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -13.964299892013173,0.0,-4.143774299393314
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -14.17328054135055,0.0,-4.279386419328674
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -14.39694784993651,0.0,-4.419705519949503
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -14.63391684386795,0.0,-4.564096949323698
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -14.882931688735766,0.0,-4.712006275220617
-[14:22:08] [Server thread/WARN]: FACA14 moved too quickly! 0.08988526647385697,-4.305438451751215,9.040345651204717
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -15.142854690471722,0.0,-4.862947938317433
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! -15.376785385837024,0.0,-4.99879543150584
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 10.583231104098786,0.0,-16.066140607934784
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 12.121866417349565,0.0,-15.657739974274477
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 7.91681395733508,0.0,-20.85909563520792
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 7.91681395733508,0.0,-20.85909563520792
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 7.91681395733508,0.0,-20.85909563520792
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 20.433547933032173,0.0,-15.596284492634467
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 20.433547933032173,0.0,-15.596284492634467
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 20.433547933032173,0.0,-15.596284492634467
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 20.22301031278073,0.0,-15.718547233265184
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 8.171965333001367,0.0,-20.932426345652345
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 20.03352645957409,0.0,-15.828583696917846
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.54752149594151,0.0,-12.682015774489912
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.3439453254543423,0.0,-12.646364029371924
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.83104701829734,0.0,-6.39554055622925
-[14:22:08] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! 2.527163874039161,0.0,-12.678450599128098
-[14:22:08] [Server thread/WARN]: Boat (vehicle of WallesOPilao) moved too quickly! 16.66051155492903,0.0,-6.494573370893178
-[14:24:39] [Server thread/WARN]: Boat moved wrongly!
-[14:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5774ms or 115 ticks behind
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 7.947198663368113,0.0,6.707485884809557
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 8.252888588232736,0.0,6.965435682404177
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 8.558579135615787,0.0,7.223384813897837
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 8.864270243265423,0.0,7.481333345900566
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 9.169961855154952,0.0,7.739281338361707
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 9.475653920860395,0.0,7.997228845234986
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 9.781346395000128,0.0,8.25517591507969
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 10.087039236730675,0.0,8.513122591598403
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 10.39273240929299,0.0,8.771068914123816
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 10.698425879603974,0.0,9.029014918055282
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 11.004119617888591,0.0,9.286960635252171
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 11.309813597349603,0.0,9.544906094387898
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 11.615507793869256,0.0,9.80285132126869
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 11.921202185741777,0.0,10.060796339119861
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 12.226896753431902,0.0,10.318741168844554
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 12.532591479357734,0.0,10.576685829255439
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 12.838286347695771,0.0,10.834630337283897
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 13.143981344204803,0.0,11.092574708168058
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 13.449676456067664,0.0,11.35051895562242
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 13.755371671749003,0.0,11.608463091989961
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 14.061066980867054,0.0,11.866407128379251
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 14.366762374078007,0.0,12.124351074788365
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 14.672457842972676,0.0,12.38229494021516
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 14.978153379982587,0.0,12.640238732758007
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 15.283848978296305,0.0,12.898182459704913
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 15.589544631783383,0.0,13.156126127616062
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 15.895240334926598,0.0,13.414069742394531
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 16.200936082760222,0.0,13.672013309353815
-[14:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4589ms or 91 ticks behind
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 8.865122440624532,0.0,7.4804214861731
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 9.17081826487879,0.0,7.738364971361534
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 9.476514121712398,0.0,7.996308421689719
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 9.782210007867434,0.0,8.254251840643747
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 10.087905920411686,0.0,8.51219523136092
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 10.393601856706255,0.0,8.77013859666522
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 10.69929781437611,0.0,9.028081939097547
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 11.00499379128371,0.0,9.28602526094528
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 11.31068978550536,0.0,9.543968564266834
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 11.616385795309611,0.0,9.801911850915076
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 11.922081819138157,0.0,10.059855122556883
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 12.22777785558867,0.0,10.317798380693375
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 12.533473903398885,0.0,10.575741626674699
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 12.83916996143273,0.0,10.83368486171662
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 13.144866028668048,0.0,11.091628086912806
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 13.450562104184542,0.0,11.34957130324824
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 13.756258187154117,0.0,11.607514511608542
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 14.061954276831557,0.0,11.865457712791567
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 14.367650372545995,0.0,12.123400907514906
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 14.673346473693755,0.0,12.381344096424527
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 14.979042579731413,0.0,12.639287280101826
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 15.284738690170116,0.0,12.897230459070215
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 15.590434804569668,0.0,13.155173633800132
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 15.896130922533985,0.0,13.413116804715855
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 16.201827043706658,0.0,13.671059972198691
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 16.507523167766863,0.0,13.929003136591746
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 16.81321929442572,0.0,14.186946298204248
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 17.11891542342346,0.0,14.444889457314048
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 17.424611554526223,0.0,14.702832614171712
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 17.730307687523464,0.0,14.960775769002112
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 18.036003822225666,0.0,15.218718922008065
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 18.341699958462414,0.0,15.476662073371926
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 18.64739609608023,0.0,15.734605223258313
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 18.953092234940982,0.0,15.992548371814564
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 19.258788374920414,0.0,16.250491519173693
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 19.564484515906656,0.0,16.508434665455752
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 19.870180657799096,0.0,16.766377810768063
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 20.175876800507012,0.0,17.02432095520794
-[14:32:18] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! 20.48157294394889,0.0,17.28226409886247
-[14:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[14:33:17] [Server thread/WARN]: Boat moved wrongly!
-[14:33:17] [Server thread/WARN]: Boat moved wrongly!
-[14:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3007ms or 60 ticks behind
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -6.309209487838643,0.0,-8.26763616581718
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -6.551871393608337,0.0,-8.585622175328353
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -6.794533299430384,0.0,-8.903608184908194
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -7.037195205299554,0.0,-9.221594194549766
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -7.279857111211129,0.0,-9.539580204246818
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -7.522519017160846,0.0,-9.857566213993891
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -7.7651809231448965,0.0,-10.175552223785985
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -8.00784282915987,0.0,-10.493538233618551
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -8.250504735202696,0.0,-10.81152424348761
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -8.493166641270534,0.0,-11.129510253389526
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -8.735828547360882,0.0,-11.447496263320886
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -8.978490453471522,0.0,-11.765482273278849
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -9.22115235960041,0.0,-12.0834682832608
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -9.463814265745725,0.0,-12.401454293264237
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -9.70647617190582,0.0,-12.719440303287001
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -9.949138078079216,0.0,-13.037426313327273
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -10.191799984264605,0.0,-13.355412323383234
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -10.434461890460796,0.0,-13.673398333453292
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -10.677123796666649,0.0,-13.991384343536083
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -10.919785702881256,0.0,-14.309370353630243
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -11.162447609103708,0.0,-14.627356363734748
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -11.405109515333265,0.0,-14.945342373848462
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -11.647771421569189,0.0,-15.263328383970588
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -11.890433327810797,0.0,-15.581314394100218
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -12.133095234057578,0.0,-15.899300404236556
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -12.37575714030902,0.0,-16.217286414379032
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -12.618419046564611,0.0,-16.535272424526966
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -12.861080952823954,0.0,-16.853258434679788
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -13.103742859086708,0.0,-17.171244444837043
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -13.346404765352474,0.0,-17.489230454998278
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -13.58906667162097,0.0,-17.80721646516315
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -13.831728577891965,0.0,-18.125202475331207
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -14.074390484165178,0.0,-18.44318848550222
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -14.31705239044038,0.0,-18.761174495675846
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -14.559714296717402,0.0,-19.07916050585186
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -14.802376202996015,0.0,-19.39714651602992
-[14:34:38] [Server thread/WARN]: Boat (vehicle of FACA14) moved too quickly! -15.045038109276106,0.0,-19.715132526209914
-[14:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4611ms or 92 ticks behind
-[14:42:33] [Server thread/WARN]: Luka moved too quickly! -6.6026633640175305,3.580000013113022,-6.985777860757224
-[14:42:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4829ms or 96 ticks behind
-[14:47:36] [Server thread/WARN]: WallesOPilao moved too quickly! -3.845941190309759,1.0625,9.415886792292952
-[14:47:36] [Server thread/WARN]: Luka moved too quickly! 6.990656031503477,-0.43270087700591375,-7.308637911585606
-[14:47:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3063ms or 61 ticks behind
-[14:48:56] [Server thread/INFO]: FACA14 was blown up by Creeper
-[14:52:38] [Server thread/WARN]: Luka moved too quickly! 5.033115931541033,0.0,8.832069322147845
-[14:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
-[15:00:20] [Server thread/INFO]: <FACA14> :)
-[15:00:28] [Server thread/INFO]: <FACA14> vao dormir
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.730714918502713,0.0,2.908682733110709
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -9.92308469247331,0.0,3.067296022492883
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -10.129790322170777,0.0,3.2317934299496756
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -10.350146349379543,0.0,3.4003854615127693
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -10.583426032713362,0.0,3.5715566420610685
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -10.828879792223916,0.0,3.7440390559288517
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -11.085755307595889,0.0,3.9167765063527895
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -11.353306788759767,0.0,4.0889043624436
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -11.630808482695443,0.0,4.25971646442008
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -11.91755759828601,0.0,4.428651881404676
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -12.212882068410522,0.0,4.595268286922646
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -12.478674084481497,0.0,4.745223047916397
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -12.71788689260842,0.0,4.880182329235595
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -12.933178414219356,0.0,5.0016456792052395
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -13.16490382243461,0.0,5.123564568844586
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -13.411750954938213,0.0,5.244847893956376
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -13.672660924813783,0.0,5.363933986060374
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -13.946718020292337,0.0,5.478881224462157
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -14.23294597112374,0.0,5.588138458946105
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -14.530348224942884,0.0,5.690493684627654
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -14.83793730421138,0.0,5.785027936165534
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -15.154755978530204,0.0,5.87106740641957
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -15.479891253325775,0.0,5.948153951394943
-[15:02:41] [Server thread/WARN]: Boat (vehicle of Luka) moved too quickly! -15.81248387512693,0.0,6.016005899661195
-[15:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
-[15:05:18] [Server thread/WARN]: Boat moved wrongly!
-[15:05:19] [Server thread/WARN]: Boat moved wrongly!
-[15:07:45] [Server thread/WARN]: FACA14 moved too quickly! -0.08365633656765681,10.445000190436819,0.07520121996179796
-[15:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
-[15:08:59] [Server thread/INFO]: FACA14 was slain by Zombie
-[15:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3393ms or 67 ticks behind
-[15:17:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3674ms or 73 ticks behind
-[15:22:55] [Server thread/WARN]: WallesOPilao moved too quickly! -9.931757872562628,-0.24918707874468282,1.8257554944780736
-[15:22:55] [Server thread/WARN]: Luka moved too quickly! -3.624226225965856,-7.768476202412984,-5.252324556892177
-[15:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3928ms or 78 ticks behind
-[15:24:49] [Server thread/INFO]: FACA14 fell from a high place
-[15:24:52] [Server thread/WARN]: Fetching packet for removed entity atx['Egg'/55063, l='world', x=170.20, y=68.50, z=270.20]
-[15:27:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
-[15:44:16] [Server thread/INFO]: FACA14 was shot by Skeleton
-[15:45:23] [Server thread/INFO]: WallesOPilao drowned
-[15:45:26] [Server thread/INFO]: FACA14 was shot by Skeleton
-[15:47:31] [Server thread/INFO]: FACA14 was shot by Skeleton
-[15:49:28] [Server thread/INFO]: WallesOPilao drowned
-[15:50:30] [Server thread/INFO]: WallesOPilao drowned
-[15:57:10] [Server thread/INFO]: WallesOPilao drowned
-[16:02:46] [Server thread/INFO]: Luka fell from a high place
-[16:02:58] [Server thread/WARN]: FACA14 moved too quickly! 0.0,-12.487512062367095,-0.052745310407431134
-[16:07:23] [Server thread/INFO]: FACA14 lost connection: Disconnected
-[16:07:23] [Server thread/INFO]: FACA14 left the game
-[16:47:41] [Server thread/WARN]: WallesOPilao moved wrongly!
-[16:53:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
-[17:08:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[17:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
-[17:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
-[17:42:22] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
-[17:42:22] [Server thread/INFO]: WallesOPilao left the game
-[17:42:34] [Server thread/INFO]: Luka lost connection: Disconnected
-[17:42:34] [Server thread/INFO]: Luka left the game
-[17:42:42] [Server thread/INFO]: Stopping the server
-[17:42:42] [Server thread/INFO]: Stopping server
-[17:42:42] [Server thread/INFO]: Saving players
-[17:42:42] [Server thread/INFO]: Saving worlds
-[17:42:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:42:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:42:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:42:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:59:48] [Server thread/INFO]: Generating keypair
+[19:59:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:59:48] [Server thread/INFO]: Using default channel type
+[19:59:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:59:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:59:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:59:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:59:51] [Server thread/INFO]: Preparing level "world"
+[19:59:51] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:59:52] [Server thread/INFO]: Loaded 6 recipes
+[19:59:52] [Server thread/INFO]: Loaded 811 advancements
+[19:59:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:59:54] [Server thread/INFO]: Preparing spawn area: 0%
+[19:59:54] [Server thread/INFO]: Preparing spawn area: 0%
+[19:59:54] [Server thread/INFO]: Preparing spawn area: 0%
+[19:59:54] [Server thread/INFO]: Preparing spawn area: 0%
+[19:59:55] [Server thread/INFO]: Time elapsed: 2189 ms
+[19:59:55] [Server thread/INFO]: Done (3.835s)! For help, type "help"
+[20:01:38] [Server thread/INFO]: WallesOPilao[/25.90.211.28:22052] logged in with entity id 252 at (127.31673502852414, 78.0, 234.1238000302791)
+[20:01:38] [Server thread/INFO]: WallesOPilao joined the game
+[20:04:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2819ms or 56 ticks behind
+[20:55:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
+[21:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[21:10:06] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! -0.7054029751503776,-1.0,9.968255033540146
+[21:10:06] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! -0.607205986930353,-1.0,10.482110399028073
+[21:10:06] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! -0.5172748395895042,-1.0,11.020405920071795
+[21:10:06] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! -0.43176657890001024,-1.0,11.571778881069292
+[21:10:06] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! -0.3486249166749076,-1.0,11.893972702799914
+[21:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[21:13:56] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
+[21:13:56] [Server thread/INFO]: WallesOPilao left the game
+[21:14:26] [Server thread/INFO]: Stopping server
+[21:14:26] [Server thread/INFO]: Saving players
+[21:14:26] [Server thread/INFO]: Saving worlds
+[21:14:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:14:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:14:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
