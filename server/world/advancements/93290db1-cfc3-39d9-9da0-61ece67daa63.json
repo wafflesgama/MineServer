@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2020-07-17 15:46:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2020-07-08 16:01:09 +0100"
@@ -528,6 +534,7 @@
       "minecraft:spider": "2020-07-05 22:33:45 +0100",
       "minecraft:creeper": "2020-07-09 00:42:46 +0100",
       "minecraft:slime": "2020-07-08 19:18:15 +0100",
+      "minecraft:cave_spider": "2020-07-17 15:51:21 +0100",
       "minecraft:enderman": "2020-07-08 16:15:24 +0100",
       "minecraft:zombie": "2020-07-05 22:48:50 +0100",
       "minecraft:drowned": "2020-07-15 14:26:51 +0100"
@@ -633,6 +640,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2020-07-08 15:46:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-07-17 15:46:49 +0100"
     },
     "done": true
   },
@@ -1155,6 +1168,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-07-13 00:08:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2020-07-17 15:46:51 +0100"
     },
     "done": true
   },
@@ -1970,6 +1989,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2020-07-15 14:34:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2020-07-17 15:46:51 +0100"
     },
     "done": true
   },
