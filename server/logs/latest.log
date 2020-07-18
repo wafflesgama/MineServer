@@ -1,127 +1,63 @@
-[13:33:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:33:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:33:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:33:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:33:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:33:25] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[13:33:25] [Server thread/INFO]: Loading properties
-[13:33:25] [Server thread/INFO]: Default game type: SURVIVAL
-[13:33:25] [Server thread/INFO]: Generating keypair
-[13:33:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:33:25] [Server thread/INFO]: Using default channel type
-[13:33:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:33:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:33:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:33:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:33:26] [Server thread/INFO]: Preparing level "world"
-[13:33:26] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:33:27] [Server thread/INFO]: Loaded 6 recipes
-[13:33:28] [Server thread/INFO]: Loaded 811 advancements
-[13:33:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:33:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:33:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:33:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:33:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:33:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[13:33:31] [Server thread/INFO]: Time elapsed: 2462 ms
-[13:33:31] [Server thread/INFO]: Done (4.350s)! For help, type "help"
-[13:33:41] [Server thread/INFO]: Luka[/25.90.223.187:51427] logged in with entity id 145 at (129.71418902438836, 78.0, 233.39492559931816)
-[13:33:41] [Server thread/INFO]: Luka joined the game
-[13:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
-[14:06:59] [Server thread/INFO]: Luka fell from a high place
-[14:11:09] [Server thread/INFO]: Luka fell from a high place
-[14:42:17] [Server thread/WARN]: Boat moved wrongly!
-[15:03:36] [Server thread/WARN]: Luka moved too quickly! -7.236288875290484,-7.231523797587016,-0.035719575323469144
-[15:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
-[15:52:12] [Server thread/INFO]: Luka was slain by Cave Spider
-[15:54:42] [Server thread/INFO]: WallesOPilao[/25.90.211.28:1192] logged in with entity id 27254 at (-323.40532771792715, 64.8500000178814, -345.64562260096915)
-[15:54:42] [Server thread/INFO]: WallesOPilao joined the game
-[15:54:51] [Server thread/INFO]: <WallesOPilao> ola btarde
-[15:55:21] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
-[15:55:21] [Server thread/INFO]: WallesOPilao left the game
-[15:56:03] [Server thread/INFO]: WallesOPilao[/25.90.211.28:1376] logged in with entity id 27783 at (-314.45705700243303, 64.8500000178814, -347.84045181395214)
-[15:56:03] [Server thread/INFO]: WallesOPilao joined the game
-[15:56:49] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
-[15:56:49] [Server thread/INFO]: WallesOPilao left the game
-[16:00:04] [Server thread/INFO]: WallesOPilao[/25.90.211.28:4563] logged in with entity id 28767 at (-339.9326849516294, 68.60100002384186, -331.9687229123434)
-[16:00:04] [Server thread/INFO]: WallesOPilao joined the game
-[16:00:14] [Server thread/INFO]: <WallesOPilao> heloo
-[16:00:21] [Server thread/INFO]: <Luka> disc
-[16:03:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:04:38] [Server thread/WARN]: Horse moved wrongly!
-[16:05:20] [Server thread/WARN]: Horse moved wrongly!
-[16:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 8.627636400016684,1.0,-5.553150334121341
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 9.10260971607292,1.0,-5.891700905450932
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 9.554581498571991,1.0,-6.258680018451855
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 9.98780760142489,1.0,-6.647494702291368
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 10.406939427412851,1.0,-7.051950885369905
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 10.815933824377936,1.0,-7.467219907758931
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 11.100816962902798,1.0,-7.947079926061093
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 11.253252250370451,1.0,-8.203843454477976
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 11.334817333462638,1.0,-8.341232499221377
-[16:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 3.2124043991785243,0.0,-9.50027085864329
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 3.2124043991785243,0.0,-9.52358721784853
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 3.2124043991785243,0.0,-9.536063336781211
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 3.2124043991785243,0.0,-9.542739059275107
-[16:13:43] [Server thread/WARN]: Horse (vehicle of WallesOPilao) moved too quickly! 3.2124043991785243,0.0,-9.54631110528203
-[16:13:43] [Server thread/WARN]: Horse moved wrongly!
-[16:13:43] [Server thread/WARN]: Horse moved wrongly!
-[16:13:43] [Server thread/WARN]: Horse moved wrongly!
-[16:13:43] [Server thread/WARN]: Horse moved wrongly!
-[16:13:43] [Server thread/WARN]: Horse moved wrongly!
-[16:13:56] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:06] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:27:07] [Server thread/WARN]: Horse moved wrongly!
-[16:29:02] [Server thread/WARN]: Luka moved wrongly!
-[16:35:41] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
-[16:35:41] [Server thread/INFO]: WallesOPilao left the game
-[16:39:24] [Server thread/INFO]: Luka lost connection: Disconnected
-[16:39:24] [Server thread/INFO]: Luka left the game
-[16:39:44] [Server thread/INFO]: Stopping the server
-[16:39:44] [Server thread/INFO]: Stopping server
-[16:39:44] [Server thread/INFO]: Saving players
-[16:39:44] [Server thread/INFO]: Saving worlds
-[16:39:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[16:39:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:39:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[16:39:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:39:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[16:39:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:39:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:39:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:39:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:56:58] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[10:56:58] [Server thread/INFO]: Loading properties
+[10:56:58] [Server thread/INFO]: Default game type: SURVIVAL
+[10:56:58] [Server thread/INFO]: Generating keypair
+[10:56:58] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[10:56:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:56:58] [Server thread/INFO]: Using default channel type
+[10:57:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:57:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:57:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:57:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:57:02] [Server thread/INFO]: Preparing level "world"
+[10:57:02] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:57:02] [Server thread/INFO]: Loaded 6 recipes
+[10:57:03] [Server thread/INFO]: Loaded 811 advancements
+[10:57:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:57:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:57:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:57:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:57:04] [Server thread/INFO]: Preparing spawn area: 25%
+[10:57:05] [Server thread/INFO]: Time elapsed: 1783 ms
+[10:57:05] [Server thread/INFO]: Done (3.046s)! For help, type "help"
+[10:57:53] [Server thread/INFO]: WallesOPilao[/25.90.211.28:1217] logged in with entity id 245 at (-245.61908679172186, 80.0, -15.137448087235738)
+[10:57:53] [Server thread/INFO]: WallesOPilao joined the game
+[11:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
+[11:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind
+[11:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[11:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
+[11:37:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
+[12:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[12:55:39] [Server thread/INFO]: WallesOPilao fell from a high place
+[13:15:11] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
+[13:15:11] [Server thread/INFO]: WallesOPilao left the game
+[13:15:22] [Server thread/INFO]: Stopping server
+[13:15:22] [Server thread/INFO]: Saving players
+[13:15:22] [Server thread/INFO]: Saving worlds
+[13:15:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:15:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:15:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
