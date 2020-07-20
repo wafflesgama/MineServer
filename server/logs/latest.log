@@ -1,63 +1,32 @@
-[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:56:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:56:58] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[10:56:58] [Server thread/INFO]: Loading properties
-[10:56:58] [Server thread/INFO]: Default game type: SURVIVAL
-[10:56:58] [Server thread/INFO]: Generating keypair
-[10:56:58] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
-	at uk$2.run(SourceFile:109) [server.jar:?]
-[10:56:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:56:58] [Server thread/INFO]: Using default channel type
-[10:57:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:57:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:57:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:57:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:57:02] [Server thread/INFO]: Preparing level "world"
-[10:57:02] [Server thread/INFO]: Reloading ResourceManager: Default
-[10:57:02] [Server thread/INFO]: Loaded 6 recipes
-[10:57:03] [Server thread/INFO]: Loaded 811 advancements
-[10:57:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:57:04] [Server thread/INFO]: Preparing spawn area: 0%
-[10:57:04] [Server thread/INFO]: Preparing spawn area: 0%
-[10:57:04] [Server thread/INFO]: Preparing spawn area: 0%
-[10:57:04] [Server thread/INFO]: Preparing spawn area: 25%
-[10:57:05] [Server thread/INFO]: Time elapsed: 1783 ms
-[10:57:05] [Server thread/INFO]: Done (3.046s)! For help, type "help"
-[10:57:53] [Server thread/INFO]: WallesOPilao[/25.90.211.28:1217] logged in with entity id 245 at (-245.61908679172186, 80.0, -15.137448087235738)
-[10:57:53] [Server thread/INFO]: WallesOPilao joined the game
-[11:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
-[11:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind
-[11:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
-[11:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
-[11:37:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
-[12:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[12:55:39] [Server thread/INFO]: WallesOPilao fell from a high place
-[13:15:11] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
-[13:15:11] [Server thread/INFO]: WallesOPilao left the game
-[13:15:22] [Server thread/INFO]: Stopping server
-[13:15:22] [Server thread/INFO]: Saving players
-[13:15:22] [Server thread/INFO]: Saving worlds
-[13:15:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:15:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:15:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[00:08:03] [Server thread/WARN]: WallesOPilao moved wrongly!
+[00:26:37] [Server thread/WARN]: Luka moved too quickly! -10.308093295683932,0.41999998688697815,0.015006173764390951
+[00:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[00:31:40] [Server thread/WARN]: Luka moved too quickly! -3.6563482406552623,1.0013359791121417,-9.297751806806588
+[00:31:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
+[00:41:42] [Server thread/WARN]: Luka moved too quickly! -10.089833377877312,0.0,0.49968061755217263
+[00:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[00:45:15] [Server thread/INFO]: Luka fell from a high place
+[00:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
+[00:51:48] [Server thread/WARN]: WallesOPilao moved wrongly!
+[00:56:51] [Server thread/WARN]: FACA14 moved too quickly! 0.3853207982165827,-1.0,10.152704138241234
+[00:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3936ms or 78 ticks behind
+[00:58:47] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
+[00:58:47] [Server thread/INFO]: WallesOPilao left the game
+[00:58:51] [Server thread/INFO]: FACA14 lost connection: Disconnected
+[00:58:51] [Server thread/INFO]: FACA14 left the game
+[01:11:48] [Server thread/INFO]: Luka lost connection: Disconnected
+[01:11:48] [Server thread/INFO]: Luka left the game
+[01:12:05] [Server thread/INFO]: Stopping the server
+[01:12:05] [Server thread/INFO]: Stopping server
+[01:12:05] [Server thread/INFO]: Saving players
+[01:12:05] [Server thread/INFO]: Saving worlds
+[01:12:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:12:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:12:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
