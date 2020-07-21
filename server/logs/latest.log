@@ -1,32 +1,17 @@
-[00:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
-[00:08:03] [Server thread/WARN]: WallesOPilao moved wrongly!
-[00:26:37] [Server thread/WARN]: Luka moved too quickly! -10.308093295683932,0.41999998688697815,0.015006173764390951
-[00:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
-[00:31:40] [Server thread/WARN]: Luka moved too quickly! -3.6563482406552623,1.0013359791121417,-9.297751806806588
-[00:31:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
-[00:41:42] [Server thread/WARN]: Luka moved too quickly! -10.089833377877312,0.0,0.49968061755217263
-[00:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
-[00:45:15] [Server thread/INFO]: Luka fell from a high place
-[00:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
-[00:51:48] [Server thread/WARN]: WallesOPilao moved wrongly!
-[00:56:51] [Server thread/WARN]: FACA14 moved too quickly! 0.3853207982165827,-1.0,10.152704138241234
-[00:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3936ms or 78 ticks behind
-[00:58:47] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
-[00:58:47] [Server thread/INFO]: WallesOPilao left the game
-[00:58:51] [Server thread/INFO]: FACA14 lost connection: Disconnected
-[00:58:51] [Server thread/INFO]: FACA14 left the game
-[01:11:48] [Server thread/INFO]: Luka lost connection: Disconnected
-[01:11:48] [Server thread/INFO]: Luka left the game
-[01:12:05] [Server thread/INFO]: Stopping the server
-[01:12:05] [Server thread/INFO]: Stopping server
-[01:12:05] [Server thread/INFO]: Saving players
-[01:12:05] [Server thread/INFO]: Saving worlds
-[01:12:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:12:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:12:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:12:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:02:20] [Server thread/INFO]: WallesOPilao has made the advancement [A Terrible Fortress]
+[00:02:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[00:06:51] [Server thread/INFO]: WallesOPilao was burnt to a crisp whilst fighting Blaze
+[00:06:59] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
+[00:06:59] [Server thread/INFO]: WallesOPilao left the game
+[00:07:37] [Server thread/INFO]: Stopping server
+[00:07:37] [Server thread/INFO]: Saving players
+[00:07:37] [Server thread/INFO]: Saving worlds
+[00:07:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:07:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:07:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
