@@ -1,17 +1,44 @@
-[00:02:20] [Server thread/INFO]: WallesOPilao has made the advancement [A Terrible Fortress]
-[00:02:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[00:06:51] [Server thread/INFO]: WallesOPilao was burnt to a crisp whilst fighting Blaze
-[00:06:59] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
-[00:06:59] [Server thread/INFO]: WallesOPilao left the game
-[00:07:37] [Server thread/INFO]: Stopping server
-[00:07:37] [Server thread/INFO]: Saving players
-[00:07:37] [Server thread/INFO]: Saving worlds
-[00:07:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:07:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:07:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
+[00:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4818ms or 96 ticks behind
+[00:14:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/160936, l='world', x=252.51, y=64.72, z=307.26]
+[00:14:30] [Server thread/WARN]: FACA14 moved too quickly! -3.007676853162792,1.5800000131130219,9.539140664068583
+[00:14:30] [Server thread/WARN]: WallesOPilao moved too quickly! 7.264942903112001,0.0,7.089032229820361
+[00:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3295ms or 65 ticks behind
+[00:19:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[00:24:16] [Server thread/INFO]: FACA14 has made the advancement [Best Friends Forever]
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -7.573916603288865,3.0,-5.981132951769524
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -8.004822998522172,3.0,-6.246999346028204
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -8.465138264537075,3.0,-6.470570155411721
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -8.942439658886656,4.0,-6.66788717335308
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -9.429229100731732,4.0,-6.8499593692123
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -9.921299908255833,4.0,-7.023252916955684
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -10.416196669255783,4.0,-7.191849185119665
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -10.912202263691142,5.0,-7.359152209106824
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -11.408398955280745,5.0,-7.52695914701772
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -11.90469789914755,5.0,-7.695035719222275
+[00:24:35] [Server thread/WARN]: Horse (vehicle of FACA14) moved too quickly! -12.401051556169136,5.0,-7.863256567361418
+[00:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3758ms or 75 ticks behind
+[00:24:35] [Server thread/WARN]: Horse moved wrongly!
+[00:24:35] [Server thread/WARN]: Horse moved wrongly!
+[00:24:35] [Server thread/WARN]: Horse moved wrongly!
+[00:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[00:32:42] [Server thread/INFO]: WallesOPilao was slain by Enderman
+[00:33:17] [Server thread/INFO]: Gave 1 [Minecart] to WallesOPilao
+[00:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3667ms or 73 ticks behind
+[00:35:47] [Server thread/INFO]: FACA14 lost connection: Disconnected
+[00:35:47] [Server thread/INFO]: FACA14 left the game
+[00:36:20] [Server thread/INFO]: WallesOPilao lost connection: Disconnected
+[00:36:20] [Server thread/INFO]: WallesOPilao left the game
+[00:36:29] [Server thread/INFO]: Stopping the server
+[00:36:29] [Server thread/INFO]: Stopping server
+[00:36:29] [Server thread/INFO]: Saving players
+[00:36:29] [Server thread/INFO]: Saving worlds
+[00:36:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:36:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:36:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:36:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
